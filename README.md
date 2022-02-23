@@ -2,7 +2,7 @@ Welcome to my GitHub, I am working on building a repository of Network Security 
 As my programming skills progress I will be adding scripts and eventually my own programs.
  
 Current Languages I have experience in:
-C++, C, Java-HTML, CSS & JavaScript inluding JSON, Jquery & PHP
+C++, C, Java, HTML, CSS & JavaScript inluding JSON, Jquery & PHP
 
 Linux flavors:
 -Ubuntu
