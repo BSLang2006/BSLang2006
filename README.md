@@ -1,8 +1,10 @@
-Welcome to my GitHub, I am working on building a repository of Network Security tools and commands.
-As my programming skills progress I will be adding scripts and my own programs.
+Welcome to my GitHub!
  
 Current Languages I have experience in:
-C++, C, Java, HTML, CSS & JavaScript inluding JSON, Jquery & PHP
+C++, C, Java, HTML, CSS, JavaScript, TypeScript, JSON, Jquery & PHP
+
+Frameworks:
+-Angular
 
 Linux flavors:
 -Ubuntu
