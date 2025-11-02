@@ -2,6 +2,7 @@ Welcome to my GitHub!
  
 Languages I am working with:
 JavaScript/TypeScript & Java
+Python
 
 Frameworks:
 -Angular
