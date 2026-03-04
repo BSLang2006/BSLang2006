@@ -1,12 +1,10 @@
 Welcome to my GitHub!
  
 Languages I am working with:
-JavaScript/TypeScript & Java
-Python
+JavaScript/TypeScript & Python
 
 Frameworks:
 -Angular
--Swing
 
 
 <!---
