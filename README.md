@@ -16,6 +16,6 @@ Most of my work lives somewhere between:
 
 `Python` · `TypeScript` · `Angular` · `FastAPI` · `Linux` · `Docker` · `AWS` · `MQTT` · `Cisco`
 
-[Website](https://brandonscottlang.com) ·
+[Personal Website](https://brandonscottlang.com) ·
 [Argus](https://blangsargus.com) ·
 [LinkedIn](https://www.linkedin.com/in/brandon-lang-596b78215)
