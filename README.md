@@ -5,7 +5,7 @@ physical devices.
 
 Currently working on:
 
-**CCNP** exam schedule
+**CCNP** exam scheduled
 
 **[Argus](https://blangsargus.com)** — An AI engineering assistant
 designed to observe technical work, preserve decisions, and keep
