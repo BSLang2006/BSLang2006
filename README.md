@@ -1,7 +1,6 @@
 # Brandon Lang
 
-I build networks and systems that connect infrastructure, software, and
-physical devices.
+I build and automate network infrastructure — routing, switching, segmentation — and the systems that run on top of it.
 
 Currently working on:
 
@@ -16,7 +15,7 @@ services, network infrastructure, automation, and ESP32 devices.
 
 Most of my work lives somewhere between:
 
-`Python` · `TypeScript` · `Angular` · `FastAPI` · `Linux` · `Docker` · `AWS` · `MQTT` · `Cisco`
+`Cisco` · `Python` · `Linux` · `Docker` · `AWS` · `MQTT` · `Typescript` · `Angular` · `FastAPI`
 
 [Personal Website](https://brandonscottlang.com) ·
 [Argus](https://blangsargus.com) ·
