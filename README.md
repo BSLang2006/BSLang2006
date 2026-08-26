@@ -1,9 +1,11 @@
 # Brandon Lang
 
-I build systems that connect networks, infrastructure, software, and
+I build networks and systems that connect infrastructure, software, and
 physical devices.
 
 Currently working on:
+
+**CCNP** exam schedule
 
 **[Argus](https://blangsargus.com)** — An AI engineering assistant
 designed to observe technical work, preserve decisions, and keep
