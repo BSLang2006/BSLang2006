@@ -6,12 +6,14 @@ Network Engineer | DevOps | Infrastructure Automation
 ### What I'm building
 
 **Cisco Modeling Labs**
+
 Enterprise topology in Cisco Modeling Labs(CML):
   - Management plane across the CML bridge
   - L2 triangle
   - OSPF single area
 
 **Nexus**
+
 Self-hosted ops platform I designed, built, and run. Integrating application services, network infrastructure, automation, and ESP32 devices into a single control plane with a custom interface.
 
 ### Stack
