@@ -1,24 +1,13 @@
 # Brandon Lang
+Network Engineer building toward automation — routing, switching, segmentation, and the tooling that operates on top of it.
 
-I build and automate network infrastructure — routing, switching, segmentation — and the systems that run on top of it.
+### Currently
+- **CCNA** — exam scheduled Sept 10, 2026
+- **Cisco Modeling Labs (CML)** — building and testing enterprise topologies
 
-Currently working on:
+### Nexus
+Self-hosted operations platform I designed and run — connects application services, network infrastructure, automation, and ESP32 devices under one control plane.
 
-**Cisco Modeling Labs - CML** - Building enterprise topologies
+`Cisco` · `Python` · `Linux` · `Docker` · `AWS` · `MQTT` · `TypeScript` · `Angular` · `FastAPI`
 
-**CCNA** exam scheduled
-
-**[Argus](https://blangsargus.com)** — An AI engineering assistant
-designed to observe technical work, preserve decisions, and keep
-infrastructure in view.
-
-**Nexus** — A self-hosted operations platform connecting application
-services, network infrastructure, automation, and ESP32 devices.
-
-Most of my work lives somewhere between:
-
-`Cisco` · `Python` · `Linux` · `Docker` · `AWS` · `MQTT` · `Typescript` · `Angular` · `FastAPI`
-
-[Personal Website](https://brandonscottlang.com) ·
-[Argus](https://blangsargus.com) ·
-[LinkedIn](https://www.linkedin.com/in/brandon-lang-596b78215)
+[Technical Ramblings](https://brandonscottlang.com) · [LinkedIn](https://www.linkedin.com/in/brandon-lang-596b78215)
