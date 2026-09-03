@@ -1,15 +1,18 @@
 # Brandon Lang
 Network Engineer specializing in infrastructure automation — routing, switching, segmentation, and the tooling that runs on top of it.
 
-**AWS Certified Cloud Practitioner** · **CCNA** — exam Sept 10, 2026
+**AWS Certified Cloud Practitioner** · **CCNA** - exam Sept 10, 2026
 
 ### What I'm building
 
-**CML Lab — OSPF Triangle**
-Enterprise topology in Cisco Modeling Labs: a flat L2 management plane isolated from an OSPF data plane under test, so I can inject faults without losing SSH access. Lab intent defined in YAML, deployed and validated with Python/netmiko.
+**Cisco Modeling Labs**
+Enterprise topology in Cisco Modeling Labs(CML):
+  -Management plane across the CML bridge
+  -L2 triangle
+  -OSPF single area
 
 **Nexus**
-Self-hosted ops platform I designed and run — ties application services, network infrastructure, automation, and ESP32 devices into a single control plane.
+Self-hosted ops platform I designed, built, and run. Integrating application services, network infrastructure, automation, and ESP32 devices into a single control plane with a custom interface.
 
 ### Stack
 `Cisco` `Python` `Linux` `Docker` `AWS` `MQTT` `TypeScript` `Angular` `FastAPI`
