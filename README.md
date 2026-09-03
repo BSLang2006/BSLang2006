@@ -1,5 +1,4 @@
 # Brandon Lang
-Network Engineer | DevOps | Infrastructure Automation
 
 **AWS Certified Cloud Practitioner** | **CCNA** - exam Sept 10, 2026
 
