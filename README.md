@@ -1,13 +1,17 @@
 # Brandon Lang
-Network Engineer building toward automation — routing, switching, segmentation, and the tooling that operates on top of it.
+Network Engineer specializing in infrastructure automation — routing, switching, segmentation, and the tooling that runs on top of it.
 
-### Currently
-- **CCNA** — exam scheduled Sept 10, 2026
-- **Cisco Modeling Labs (CML)** — building and testing enterprise topologies
+**AWS Certified Cloud Practitioner** · **CCNA** — exam Sept 10, 2026
 
-### Nexus
-Self-hosted operations platform I designed and run — connects application services, network infrastructure, automation, and ESP32 devices under one control plane.
+### What I'm building
 
-`Cisco` · `Python` · `Linux` · `Docker` · `AWS` · `MQTT` · `TypeScript` · `Angular` · `FastAPI`
+**CML Lab — OSPF Triangle**
+Enterprise topology in Cisco Modeling Labs: a flat L2 management plane isolated from an OSPF data plane under test, so I can inject faults without losing SSH access. Lab intent defined in YAML, deployed and validated with Python/netmiko.
 
-[Technical Ramblings](https://brandonscottlang.com) · [LinkedIn](https://www.linkedin.com/in/brandon-lang-596b78215)
+**Nexus**
+Self-hosted ops platform I designed and run — ties application services, network infrastructure, automation, and ESP32 devices into a single control plane.
+
+### Stack
+`Cisco` `Python` `Linux` `Docker` `AWS` `MQTT` `TypeScript` `Angular` `FastAPI`
+
+[Journal](https://brandonscottlang.com) · [LinkedIn](https://www.linkedin.com/in/brandon-lang-596b78215)
