@@ -1,7 +1,7 @@
 # Brandon Lang
-Network Engineer specializing in infrastructure automation — routing, switching, segmentation, and the tooling that runs on top of it.
+Network Engineer | DevOps | Infrastructure Automation
 
-**AWS Certified Cloud Practitioner** · **CCNA** - exam Sept 10, 2026
+**AWS Certified Cloud Practitioner** | **CCNA** - exam Sept 10, 2026
 
 ### What I'm building
 
