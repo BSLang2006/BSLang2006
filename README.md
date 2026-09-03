@@ -4,7 +4,7 @@ I build and automate network infrastructure — routing, switching, segmentation
 
 Currently working on:
 
-**CCNP** exam scheduled
+**CCNA** exam scheduled
 
 **[Argus](https://blangsargus.com)** — An AI engineering assistant
 designed to observe technical work, preserve decisions, and keep
