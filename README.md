@@ -4,6 +4,8 @@ I build and automate network infrastructure — routing, switching, segmentation
 
 Currently working on:
 
+**Cisco Modeling Labs - CML** - Building enterprise topologies
+
 **CCNA** exam scheduled
 
 **[Argus](https://blangsargus.com)** — An AI engineering assistant
