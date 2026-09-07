@@ -11,11 +11,17 @@ Enterprise topology in Cisco Modeling Labs(CML):
   - L2 triangle
   - OSPF single area
 
+**Python Scripting**
+  - Automating deployments
+  - Automating lab test results
+
 **Nexus**
 
-Self-hosted ops platform I designed, built, and run. Integrating application services, network infrastructure, automation, and ESP32 devices into a single control plane with a custom interface.
+  - Self-hosted ops platform
+  - Integrating application services, network infrastructure, automation, and ESP32 devices
+  - Control plane with a custom interface
 
 ### Stack
-`Cisco` `Python` `Linux` `Docker` `AWS` `MQTT` `TypeScript` `Angular` `FastAPI`
+`Cisco` `Python` `Linux` `Docker` `AWS` `MQTT` `TypeScript` `Angular` `FastAPI` `C++`
 
-[Journal](https://brandonscottlang.com) · [LinkedIn](https://www.linkedin.com/in/brandon-lang-596b78215)
+[Chronicle](https://brandonscottlang.com) · [LinkedIn](https://www.linkedin.com/in/brandon-lang-596b78215)
