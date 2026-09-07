@@ -2,11 +2,9 @@
 
 **AWS Certified Cloud Practitioner** | **CCNA** - exam Sept 10, 2026
 
-### What I'm building
+### What's in the Forge
 
 **Cisco Modeling Labs**
-
-Enterprise topology in Cisco Modeling Labs(CML):
   - Management plane across the CML bridge
   - L2 triangle
   - OSPF single area
