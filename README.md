@@ -6,8 +6,8 @@
 
 **Cisco Modeling Labs**
   - Management plane across the CML bridge
-  - L2 triangle
-  - OSPF single area
+  - NAT (pooled and static)
+  - OSPF 
 
 **Python Scripting**
   - Automating deployments
