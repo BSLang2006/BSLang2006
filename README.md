@@ -1,6 +1,6 @@
 # Brandon Lang
 
-**CCNA** | **AWS Certified Cloud Practitioner** 
+**CCNA Certified** | **AWS Certified Cloud Practitioner** 
 
 ### What's in the Forge
 
