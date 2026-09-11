@@ -1,6 +1,6 @@
 # Brandon Lang
 
-**AWS Certified Cloud Practitioner** | **CCNA** - exam Sept 10, 2026
+**CCNA** | **AWS Certified Cloud Practitioner** 
 
 ### What's in the Forge
 
